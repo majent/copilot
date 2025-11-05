@@ -1,0 +1,3 @@
+[submodule "services/copilot-service1"]
+	path = services/copilot-service1
+	url = git@github.com:majent/copilot-service1.git
